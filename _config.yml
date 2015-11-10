@@ -1,0 +1,23 @@
+name: ym1
+favicon: null
+layout_spectrum: 0.6294629082549363
+typography_spectrum: 0.004407339496538043
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.4768233650829643
+  lightness: 0.7419657078571618
+  saturation: 0.4669303495902568
+  rhythmicContrast: 0.06057650223374367
+purpose: []
